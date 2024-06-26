@@ -1,4 +1,4 @@
-It is Stop Watch game with Html,Css and JavaScript it is only sample game 
+It is Stop Watch game with Html,Css and JavaScript it is only a timer with Hours, Minutes, Seconds and Milli Seconds 
 ### Responsive Stop watch website using Html, Css and JavaScript.
 
 
